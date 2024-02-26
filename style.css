@@ -212,7 +212,7 @@ footer{
     display: flex;
     height:50px;
     width: 100%;
-    position: fixed;
+    position: relative;
     justify-content: center;
     align-items: center;
 	color: #fff;
